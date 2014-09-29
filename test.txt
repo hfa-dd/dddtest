@@ -1,2 +1,1 @@
-test 2
-another test
+Test file 3
